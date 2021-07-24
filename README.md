@@ -1,8 +1,5 @@
 # Django Simple E-commerce
 
-This is a simple e-commerce website built with Django. It contains the essentials for adding products and capturing payments
-online.
-# InstagramClone
 ![Version](https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
